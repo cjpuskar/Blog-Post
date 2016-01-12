@@ -1,0 +1,24 @@
+{
+  "name": "blog-post",
+  "version": "1.0.0",
+  "description": "Blog post example from Udemy course",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjpuskar/Blog-Post.git"
+  },
+  "author": "Chris Puskar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjpuskar/Blog-Post/issues"
+  },
+  "homepage": "https://github.com/cjpuskar/Blog-Post#readme"
+}
